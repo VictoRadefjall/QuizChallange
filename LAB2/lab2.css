@@ -1,0 +1,46 @@
+h1 {
+  font-size: 40px;
+  color: #fb5311;
+  font-family:
+
+}
+
+h2 {
+  color: #fa930d;
+
+}
+
+body {
+  background-image: url("img/quiz.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+
+}
+ #content {
+   color: yellow;
+   font-size: 20px;
+   margin-top: 400px;
+   margin-left: 150px;
+   font-family:'Press Start 2P' ;
+   text-decoration: underline;
+
+ }
+
+#play {
+  font-size: 25pt;
+  font-family: 'Press Start 2P';
+  margin-top: 110px;
+
+}
+
+#ingre{
+  font-size: 20pt;
+  font-family:'Press Start 2P' ;
+  color: red;
+}
+
+#big {
+  font-size: 40pt;
+  font-family: 'Carter One';
+
+}
